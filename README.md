@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @keellylu
-- 👀 I’m interested in computer science and design
-- 🌱 I’m currently @ MIT
-- 📫 Reach me @ kellylu@mit.edu
+- 👋 hi, i’m @keellylu
+- 👀 i’m interested in computer science and design
+- 🌱 i’m currently @ MIT
+- 📫 reach me @ kellylu@mit.edu
 
